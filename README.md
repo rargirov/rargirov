@@ -5,7 +5,7 @@ I'm testing various technologies here - frameworks or libraries to improve my te
 - 🔭 I’m currently working on inproving my technical skills
 - 🌱 I’m currently learning .NET Core
 - 💬 Ask me about anything that you are interested
-- 📫 How to reach me - use my linked profile
+- 📫 How to reach me - use my linkedin profile
 
 <!--
 **rargirov/rargirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
