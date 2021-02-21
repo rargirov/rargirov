@@ -1,6 +1,6 @@
 ### Hi there 👋
 The best way to learning is by doing and this is my playground.
-I'm testing various technologies here - frameworks or libraries to improve my technical skills.
+I'm testing various technologies here - frameworks or libraries, etc.
 
 - 🔭 I’m currently working on improving my technical skills
 - 🌱 I’m currently learning .NET Core
