@@ -3,7 +3,7 @@ The best way to learning is by doing and this is my playground.
 I'm testing various technologies here - frameworks or libraries, etc.
 
 - 🔭 I’m currently working on improving my technical skills
-- 🌱 I’m currently learning .NET Core
+- 🌱 I’m currently learning .NET Core and React.js
 - 💬 Ask me about anything that you are interested
 
 <!--
